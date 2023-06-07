@@ -1,4 +1,3 @@
-# Awesome Prompting Papers in Computer Vision
 A curated list of prompt-based papers in computer vision and vision-language learning.  
 
 
