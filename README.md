@@ -227,8 +227,6 @@ This section collects papers prompting pretrained vision-language foundation mod
 
   `NeurIPS 2022` 
  
-
-
 - Learning to Decompose Visual Features with Latent Textual Prompts [[paper]](https://openreview.net/forum?id=wtcud6HroZr)
 
   `ICLR 2023` 
@@ -267,18 +265,15 @@ This section collects papers prompting pretrained vision-language foundation mod
 
 - MaPLe: Multi-modal Prompt Learning [[paper]](https://arxiv.org/abs/2210.03117) [[code]](https://github.com/muzairkhattak/multimodal-prompt-learning)
 
-
   `CVPR 2023` 
 
 - Texts as Images in Prompt Tuning for Multi-Label Image Recognition [[paper]](https://arxiv.org/abs/2211.12739) [[code]](https://github.com/guozix/TaI-DPT)
 
   `CVPR 2023` ![](https://img.shields.io/badge/multi--label--recognition-759CBC?) 
 
-
 - Vita-CLIP: Video and Text Adaptive CLIP Via Multimodal Prompting [[paper]](https://arxiv.org/abs/2304.03307) [[code]](https://github.com/TalalWasim/Vita-CLIP)
 
   `CVPR 2023` ![](https://img.shields.io/badge/action--recognition-759CBC?) 
-
 
 - LASP: Text-to-Text Optimization for Language-Aware Soft Prompting of Vision & Language Models [[paper]](https://arxiv.org/abs/2210.01115) [[code]](https://www.adrianbulat.com/lasp)
 
@@ -295,8 +290,7 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Rethinking the Openness of CLIP [[paper]](https://arxiv.org/abs/2206.01986) [[code]](https://github.com/lancopku/clip-openness)
 
   `ACL 2023` ![](https://img.shields.io/badge/REPE-CD6155?style=flat-square)
-  
-<bar>
+
 
 **ArXiv Papers**
 
@@ -329,7 +323,6 @@ This section collects papers prompting pretrained vision-language foundation mod
 
   `arXiv 2022/05` 
 
-
 - Parameter-Efficient Image-to-Video Transfer Learning [[paper]](https://arxiv.org/pdf/2206.13559.pdf)
 
   `arXiv 2022/06`  ![](https://img.shields.io/badge/ST--adapter-CD6155?style=flat-square) ![task](https://img.shields.io/badge/action--recognition-759CBC?style=flat-square)
@@ -345,25 +338,20 @@ This section collects papers prompting pretrained vision-language foundation mod
 - Prompt Tuning with Soft Context Sharing for Vision-Language Models [[paper]](https://arxiv.org/pdf/2208.13474.pdf)
 
   `arXiv 2022/08`   ![](https://img.shields.io/badge/multi--task--learning-759CBC?style=flat-square) 
- 
-
   
 - CPL: Counterfactual Prompt Learning for Vision and Language Models [[paper]](https://arxiv.org/abs/2210.10362) [[code]](https://github.com/eric-ai-lab/CPL)
 
   `arXiv 2022/10`   ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) 
 ![](https://img.shields.io/badge/VQA-759CBC?style=flat-square) 
 
-
 - Understanding and Mitigating Overfitting in Prompt Tuning for Vision-Language Models [[paper]](https://arxiv.org/abs/2211.02219) [[code]](https://github.com/machengcheng2016/Subspace-Prompt-Learning)
 
   `arXiv 2022/10`  ![](https://img.shields.io/badge/object--detection-759CBC?style=flat-square) 
 ![](https://img.shields.io/badge/semantic--segmentation-759CBC?style=flat-square) 
 
-
 - Unified Vision and Language Prompt Learning [[paper]](https://arxiv.org/abs/2210.07225)
 
   `arXiv 2022/10` 
-    
 
 - Multi-Prompt Alignment for Multi-source Unsupervised Domain Adaptation [[paper]](https://arxiv.org/abs/2209.15210)
 
@@ -393,9 +381,8 @@ Language-interactable prompter develops zero/few-shot capabilities by prompting 
 
   `ICLR 2023` ![](https://img.shields.io/badge/captioning-759CBC?style=flat-square) ![](https://img.shields.io/badge/retrieval-759CBC?style=flat-square) ![](https://img.shields.io/badge/visual--dialog-759CBC?style=flat-square) 
 
-<bar>
-
 **Arxiv Papers**
+
 - **Visual ChatGPT: Talking, Drawing and Editing with Visual Foundation Models** [[paper]](https://arxiv.org/abs/2303.04671) [[code]](https://github.com/microsoft/TaskMatrix) [[demo]](https://huggingface.co/spaces/microsoft/visual_chatgpt) 
 `arXiv 2023/03`  ![](https://img.shields.io/badge/Visual--ChatGPT-CD6155?style=flat-square) ![](https://img.shields.io/badge/multimodal--chatbot-759CBC?) ![](https://img.shields.io/badge/LLMs-(chatGPT)-759CBC?) 
 
